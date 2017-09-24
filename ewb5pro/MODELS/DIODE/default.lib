@@ -1,0 +1,18 @@
+
+.MODEL ideal D (
++   IS =  1e-14
++   RS =  2
++   CJO =  1e-09
++   VJ =  1
++   TT =  1e-07
++   M =  0.5
++   BV =  1e+30
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   IBV =  0.001
++   TNOM =  27
+)
