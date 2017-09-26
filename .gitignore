@@ -3,3 +3,7 @@
 
 ~*
 *.tmp
+
+# Electronics Workbench 5.12
+
+ewb5pro/ewb1.loc
