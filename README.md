@@ -5,10 +5,10 @@
 ### Отчеты
 
 Отчет №1:  
-[![Report1 size](https://img.shields.io/github/size/SnipGhost/electronics/Lab-1/Report1.docx.svg)](https://github.com/SnipGhost/electronics/blob/master/Lab-1/Report1.docx)
+[![Report1 size](https://img.shields.io/github/size/SnipGhost/electronics/Lab-1/Report1.docx.svg)](https://github.com/SnipGhost/electronics/blob/master/Lab-1/Report1.docx?raw=true)
 
 Отчет №2:  
-[![Report2 size](https://img.shields.io/github/size/SnipGhost/electronics/Lab-1/Report2.docx.svg)](https://github.com/SnipGhost/electronics/blob/master/Lab-1/Report2.docx)
+[![Report2 size](https://img.shields.io/github/size/SnipGhost/electronics/Lab-1/Report2.docx.svg)](https://github.com/SnipGhost/electronics/blob/master/Lab-1/Report2.docx?raw=true)
 
 ### Структура репозитория:
 
