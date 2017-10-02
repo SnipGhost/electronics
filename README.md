@@ -2,6 +2,14 @@
 
 Электронные материалы к отчетам по лабораторным работам.
 
+### Отчеты
+
+Отчет №1:  
+[![Report1 size](https://img.shields.io/github/size/SnipGhost/electronics/Lab-1/Report1.docx.svg)](https://github.com/SnipGhost/electronics/blob/master/Lab-1/Report1.docx)
+
+Отчет №2:  
+[![Report2 size](https://img.shields.io/github/size/SnipGhost/electronics/Lab-1/Report2.docx.svg)](https://github.com/SnipGhost/electronics/blob/master/Lab-1/Report2.docx)
+
 ### Структура репозитория:
 
 ```
